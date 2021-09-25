@@ -54,10 +54,6 @@ sections:
     subtitle: Top Categories
     features:
       - title: Boost your carrer by learning skills in high demand
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
         actions:
           - label: Learn More
             url: /style-guide
