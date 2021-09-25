@@ -103,10 +103,7 @@ sections:
         image_has_padding: true
       - title: Certificate
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "In the broadest sense, a training certificate is\_a document certifying that the holder has taken a specific course of training.\n\nGet your role-based certifications and our Specialty certifications in specific technical areas.\n\n"
         content_align: left
         actions: []
         actions_align: left
