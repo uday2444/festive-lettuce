@@ -18,7 +18,6 @@ sections:
     subtitle: At Eduprajna learn tomorrow technologies today from industry experts
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/logo-1.svg
