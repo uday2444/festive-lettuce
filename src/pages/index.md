@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
