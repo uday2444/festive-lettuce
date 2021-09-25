@@ -56,7 +56,7 @@ sections:
       - title: Boost your carrer by learning skills in high demand
         actions:
           - label: View Courses
-            url: /style-guide
+            url: /features
             style: primary
             has_icon: true
             icon: arrow-right
