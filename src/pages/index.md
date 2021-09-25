@@ -131,12 +131,12 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          "I completed azure 104 certificate training in eduprajna it's very
+          good , they are supported me about my job role. "
 
 
-          **Miles Tone,** *CEO, Studio*
+          ***Ravi***
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
