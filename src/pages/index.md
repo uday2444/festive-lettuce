@@ -24,6 +24,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         image_width: twenty-five
+        image_has_padding: true
       - image: images/cybersecuity.jpg
         image_alt: Netlify logo
         image_align: center
