@@ -75,7 +75,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Terms & Conditions",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
