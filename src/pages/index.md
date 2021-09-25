@@ -18,7 +18,7 @@ sections:
     subtitle: At Eduprajna learn tomorrow technologies today from industry experts
   - subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: ABOUT
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
