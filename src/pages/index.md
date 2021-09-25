@@ -34,7 +34,7 @@ sections:
       - image: images/java.png
         image_alt: Sanity logo
         image_align: center
-      - image: images/react.png
+      - image: images/react2.png
         image_alt: DatoCMS logo
         image_align: center
       - image: images/redhat.png
