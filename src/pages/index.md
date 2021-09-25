@@ -31,7 +31,7 @@ sections:
       - image: images/html.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/java.png
+      - image: images/artificial.jpg
         image_alt: Sanity logo
         image_align: center
       - image: images/react2.png
