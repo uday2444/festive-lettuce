@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Explore More
+      - label: Schedule Call Back
         url: /features
         style: primary
     image: images/classic/hero.png
