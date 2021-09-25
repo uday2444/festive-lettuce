@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Learn More
+      - label: Explore More
         url: /features
         style: secondary
     image: images/classic/hero.png
