@@ -23,6 +23,7 @@ sections:
       - image: images/python.jpg
         image_alt: Contentful logo
         image_align: center
+        image_width: thirty-three
       - image: images/cybersecuity.jpg
         image_alt: Netlify logo
         image_align: center
