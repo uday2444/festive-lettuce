@@ -16,8 +16,7 @@ sections:
     background_color: none
     title: Education Opens Up The Mind
     subtitle: At Eduprajna learn tomorrow technologies today from industry experts
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
