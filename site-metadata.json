@@ -36,11 +36,6 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
             }
         ],
         "has_anncmnt": true,
