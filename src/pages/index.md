@@ -53,7 +53,7 @@ sections:
     title: Emerging Technologies
     subtitle: Top Categories
     features:
-      - title: The Big Title For the Feature
+      - title: boost your carrer by learning skills in high demand
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
