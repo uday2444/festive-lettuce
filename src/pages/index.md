@@ -25,7 +25,7 @@ sections:
         image_align: center
         image_width: twenty-five
         image_has_padding: true
-      - image: images/cybersecuity.jpg
+      - image: images/cyber2.jpg
         image_alt: Netlify logo
         image_align: center
       - image: images/html.png
