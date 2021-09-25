@@ -6,7 +6,7 @@ sections:
     align: center
     background_color: secondary
   - title: Our mission
-    subtitle: lorem-ipsum
+    subtitle: To help you learn the Real time skills you need to achieve your goals
     content: >-
       ## Lorem ipsum
 
