@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
     title: Education Opens Up The Mind
-    subtitle: At Eduprajna
+    subtitle: At Eduprajna learn tomorow
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
