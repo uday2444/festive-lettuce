@@ -165,7 +165,7 @@ sections:
     background_color: secondary
     subtitle: Why Choose Us
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: This is Call To Action!
     actions:
       - label: Learn More
         url: /features
