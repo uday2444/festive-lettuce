@@ -167,7 +167,7 @@ sections:
   - type: cta_section
     title: This is Call To Action Schedule a demo now!
     actions:
-      - label: Learn More
+      - label: Schedule
         url: /features
         style: secondary
     actions_position: right
