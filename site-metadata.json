@@ -98,17 +98,7 @@
         "has_tertiary_nav": true,
         "tertiary_nav_links": [],
         "has_social": true,
-        "social_links": [
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "&copy; Eduprajna. All rights reserved. ",
         "secondary_nav_title": "Legal"
     },
