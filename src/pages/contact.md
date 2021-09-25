@@ -56,6 +56,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    content: "## Address&#xA;\n\neduprajna.com\n\n2nd line\n\nKalyan Nagar,\_Bangalore,\_India\_-\_560043\n\nLandmark: bus stop\n\nphn-no: 81977 19297\n"
 seo:
   title: Contact
   description: This is the contact page
