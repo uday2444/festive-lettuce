@@ -168,7 +168,7 @@ sections:
     title: This is Call To Action Schedule a demo now!
     actions:
       - label: Schedule
-        url: /features
+        url: /contact
         style: secondary
     actions_position: right
     actions_width: fourty
