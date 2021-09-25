@@ -16,8 +16,7 @@ sections:
     background_color: none
     title: Education Opens Up The Mind
     subtitle: At Eduprajna learn tomorrow technologies today from industry experts
-  - subtitle: lorem-ipsum
-    features:
+  - features:
       - title: ABOUT
         content: >+
           Eduprajna is driven by the interests and involvement of our incredible
