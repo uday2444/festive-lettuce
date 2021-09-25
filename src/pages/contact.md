@@ -27,7 +27,7 @@ sections:
         default_value: Your Name
         options: []
         is_required: true
-      - input_type: tel
+      - input_type: text
         name: Contact Number
         label: Contact number
         default_value: Your contact-number
