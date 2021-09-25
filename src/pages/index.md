@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: Schedule Call Back
-        url: /features
+        url: /contact
         style: primary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
