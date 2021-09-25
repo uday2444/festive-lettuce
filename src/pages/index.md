@@ -50,7 +50,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: Emerging Technologies
     subtitle: Top Categories
     features:
       - title: The Big Title For the Feature
