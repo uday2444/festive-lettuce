@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: About Company
     align: center
-    background_color: none
+    background_color: primary
     background_image: images/about-d3b96c36.jpeg
   - title: Our mission
     subtitle: To help you learn the Real time skills you need to achieve your goals
