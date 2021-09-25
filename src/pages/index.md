@@ -6,7 +6,7 @@ sections:
       - label: Schedule Call Back
         url: /contact
         style: primary
-    image: images/classic/hero.png
+    image: images/WhatsApp Image 2021-06-27 at 4.42.28 PM (2).jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
