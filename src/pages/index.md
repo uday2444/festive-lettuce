@@ -78,13 +78,7 @@ sections:
         title_align: left
         content: "The growing use of the term\_*learning experience*\_by educators. The new technologies have dramatically multiplied and diversified the ways in which students can learn from and interact with educators, in addition to the level of independence they may have when learning.\n"
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
