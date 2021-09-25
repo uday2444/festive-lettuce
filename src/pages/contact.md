@@ -30,7 +30,7 @@ sections:
       - input_type: number
         name: Contact Number
         label: Contact number
-        default_value: Your Contact Number
+        default_value: Your contact Number
         options: []
         is_required: true
       - input_type: email
