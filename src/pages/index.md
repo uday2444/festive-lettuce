@@ -121,12 +121,12 @@ sections:
   - type: grid_section
     title: Trusted By Thousands Of Students and Tutors
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          "A very good training, and great place to learn new course, The
+          trainer is very good, hope to join again in the future. "
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Preetha K,** Python Student
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
