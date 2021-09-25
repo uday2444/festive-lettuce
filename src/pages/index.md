@@ -19,17 +19,15 @@ sections:
   - subtitle: lorem-ipsum
     features:
       - title: ABOUT
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Eduprajna is driven by the interests and involvement of our incredible
+          community of passionate educators and lifelong learners. We are a
+          growing Education Forum focused on improving our collection of
+          education-based content and enhancing our forum experience. We pride
+          ourselves on being a great resource and offering the opportunity for
+          users to engage with a variety of topics in an interesting and safe
+          online environment.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
