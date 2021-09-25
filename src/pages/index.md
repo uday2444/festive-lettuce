@@ -19,7 +19,6 @@ sections:
   - subtitle: lorem-ipsum
     features:
       - title: ABOUT
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
