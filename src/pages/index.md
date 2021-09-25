@@ -91,7 +91,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/experience.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
