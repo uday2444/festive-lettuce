@@ -13,7 +13,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     title: Education Opens Up The Mind
     subtitle: At Eduprajna learn tomorrow technologies today from industry experts
   - type: grid_section
