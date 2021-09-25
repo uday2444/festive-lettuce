@@ -126,7 +126,7 @@ sections:
           trainer is very good, hope to join again in the future. "
 
 
-          **Preetha K,** Python Student
+          **Preetha K**
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
