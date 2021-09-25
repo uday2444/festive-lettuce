@@ -19,16 +19,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
@@ -37,6 +27,16 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
+            },
+            {
+                "label": "Get Started",
+                "url": "/pricing",
+                "style": "primary"
             }
         ],
         "has_anncmnt": true,
