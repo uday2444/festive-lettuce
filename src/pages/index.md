@@ -17,7 +17,7 @@ sections:
     title: Education Opens Up The Mind
     subtitle: At Eduprajna learn tomorrow technologies today from industry experts
   - type: grid_section
-    title: Image Grid
+    title: Popular Courses
     align: center
     grid_items:
       - image: images/logo-1.svg
