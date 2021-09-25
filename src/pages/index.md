@@ -87,10 +87,12 @@ sections:
         image_has_padding: true
       - title: Education
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Education is the process of facilitating learning, or the acquisition
+          of knowledge, skills, values, morals, beliefs, and habits. Educational
+          methods include teaching, training, storytelling, discussion, and
+          directed research.
+
         content_align: left
         actions: []
         actions_align: left
