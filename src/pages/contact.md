@@ -28,7 +28,7 @@ sections:
         options: []
         is_required: true
       - input_type: number
-        name: lorem-ipsum
+        name: Phone Number
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
