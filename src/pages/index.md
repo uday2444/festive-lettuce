@@ -43,7 +43,7 @@ sections:
       - image: images/android.png
         image_alt: Gridsome logo
         image_align: center
-      - image: images/logo-8.svg
+      - image: images/selenium.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
