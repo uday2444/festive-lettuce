@@ -5,9 +5,7 @@ sections:
     title: About Company
     align: center
     background_color: secondary
-  - title: >-
-      Our missionTo help you learn the Real time skills you need to achieve your
-      goals
+  - title: Our mission
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
