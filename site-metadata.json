@@ -85,7 +85,7 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Privacy-policy",
                 "url": "/privacy-policy",
                 "style": "link",
                 "has_icon": false,
