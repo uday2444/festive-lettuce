@@ -151,12 +151,13 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          "Good training. Nominal fee. Good faculty, well located. Loved the
+          training. They spend quality time. Thank you so much for your support.
+          Highly recommended to all. Has good grip on the concept. "
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          ***Prabhu P***
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
