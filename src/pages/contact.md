@@ -29,7 +29,7 @@ sections:
         is_required: true
       - input_type: number
         name: Contact Number
-        label: Phone number
+        label: Contact number
         default_value: lorem-ipsum
         options: []
         is_required: false
