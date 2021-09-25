@@ -40,7 +40,7 @@ sections:
       - image: images/redhat.png
         image_alt: Next.js logo
         image_align: center
-      - image: images/logo-7.svg
+      - image: images/android.png
         image_alt: Gridsome logo
         image_align: center
       - image: images/logo-8.svg
