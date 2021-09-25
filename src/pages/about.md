@@ -20,7 +20,6 @@ sections:
       - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: Lorem
     media_position: top
     media_width: fifty
     align: left
