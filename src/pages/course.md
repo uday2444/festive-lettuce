@@ -28,7 +28,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: '#'
+            url: /ceh
             style: link
             has_icon: false
             icon: arrow-left
