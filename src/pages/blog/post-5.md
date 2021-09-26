@@ -1,8 +1,5 @@
 ---
 title: 'MCSA: Windows Server 2012'
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
 date: '2020-06-02'
 categories:
   - src/data/categories/tutorials.yaml
