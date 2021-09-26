@@ -29,7 +29,7 @@ sections:
         actions:
           - label: Read More
             url: /ceh
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
