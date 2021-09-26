@@ -5,7 +5,6 @@ sections:
     actions: []
     grid_items:
       - title: 'MCSA: Windows Server 2012'
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
