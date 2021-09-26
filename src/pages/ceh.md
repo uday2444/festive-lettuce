@@ -1,5 +1,5 @@
 ---
-title: CEH
+title: Certified Ethical Hacking
 seo:
   title: ''
   description: ''
