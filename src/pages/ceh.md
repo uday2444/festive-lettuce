@@ -5,6 +5,7 @@ seo:
   robots: []
   extra: []
 template: page
+title: "Certified Ethical Hacker - CEH exam - 312-50\v"
 ---
 ## Lorem ipsum
 
