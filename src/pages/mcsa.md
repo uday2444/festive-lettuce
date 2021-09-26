@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'MCSA: Windows Server 2012(Microsoft Certified Solutions Associate)'
 seo:
   title: ''
   description: ''
