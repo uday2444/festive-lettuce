@@ -24,7 +24,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/mcsa.png
-      - title_align: left
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
