@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Popular Courses
 sections: []
 seo:
   title: ''
