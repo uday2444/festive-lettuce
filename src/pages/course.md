@@ -43,7 +43,7 @@ sections:
         image_align: center
         image_has_padding: false
         title: "Certified Ethical Hacker - CEH exam - 312-50\v"
-        image: images/ceh.jpg
+        image: images/ceh1.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
