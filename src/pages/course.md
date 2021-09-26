@@ -1,7 +1,7 @@
 ---
 title: Popular Courses
 sections:
-  - title: lorem-ipsum
+  - title: Courses In-Demand
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
