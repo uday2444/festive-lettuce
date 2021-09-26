@@ -4,7 +4,7 @@ sections:
   - title: Courses In-Demand
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: 'MCSA: Windows Server 2012'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
